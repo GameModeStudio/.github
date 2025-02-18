@@ -11,7 +11,7 @@
 Мы – команда энтузиастов, создающих военные игры с динамичными сражениями, тактической глубиной и уникальной пиксельной графикой. Наша цель – передать дух эпических боевых столкновений, сочетающих реализм и стилизацию.  
 
 🔥 **Наш текущий проект:**  
-🛡 **[Название игры]** – 3D-танковые сражения с пиксельной графикой!  
+🛡 **Pixel Tanks 3D** – 3D-танковые сражения с пиксельной графикой!  
 - 🏆 Напряжённые PvP-битвы  
 - 🔧 Гибкая кастомизация танков  
 - 🌍 Разнообразные боевые арены  
@@ -34,7 +34,7 @@
 We are a team of passionate developers creating military-themed games with intense battles, deep tactical mechanics, and a unique pixel-art style. Our goal is to capture the essence of epic warfare, blending realism with artistic design.  
 
 🔥 **Our Current Project:**  
-🛡 **[Game Name]** – 3D tank battles with pixel-style graphics!  
+🛡 **Pixel Tanks 3D** – 3D tank battles with pixel-style graphics!  
 - 🏆 Intense PvP combat  
 - 🔧 Deep tank customization  
 - 🌍 Diverse battlefields  
